@@ -1,0 +1,28 @@
+/* CSS RESET */
+
+* {
+    box-sizing: border-box;
+  }
+    
+  html, body {
+    margin: 0;
+    height: 100%;
+    overflow-x: hidden;
+    font-family: 'Open Sans'
+  }
+  
+  h1,h2,h3,h4,p,a {
+    margin: 0px;
+    outline: none;
+    text-decoration: none;
+  }
+  
+  ul, li {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+  }
+  
+  img {
+    max-width: 100%;
+  }
